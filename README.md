@@ -81,11 +81,11 @@ Project Deliverables:
 
 Outcome:
 This project will provide the pizza business with valuable insights into its sales patterns, helping them optimize pricing, pizza sizes, and promotional strategies. Additionally, it will enable the business to better allocate resources during peak hours, days, and months, ultimately increasing profitability and customer satisfaction.
-   - 📁 [Repository](Link_to_Repo)
+   - 📁 [Repository](https://github.com/suman98765/pizza_sales.git)
    - 📄 [Project Report](https://github.com/PRINCESUMANTH/princesumanth/files/12855024/PIZZA_SALES_DOCUMENTATION.docx)
 
 
-   - 📊 [Demo](Link_to_Demo)
+   - 📊 [Demo](https://github.com/suman98765/pizza_sales.git)
 
    ![Project Thumbnail](https://github.com/PRINCESUMANTH/princesumanth/assets/52598407/157c385e-22af-48d7-86fb-f7668a67e1ab)
 
